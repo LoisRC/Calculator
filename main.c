@@ -10,12 +10,6 @@
  *
  * Created on 22 de abril de 2020, 16:52
  */
-
-#include <stdio.h>
-#include <stdlib.h>
-
-/*
- * 
  */
 int main(int argc, char** argv) {
 
