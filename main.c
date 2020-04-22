@@ -22,6 +22,7 @@ int main(int argc, char** argv) {
     printf("%d",1+1);
     
     int a = 2*2;
+    float b = 1.0;
     
     return (EXIT_SUCCESS);
 }
