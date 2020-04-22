@@ -15,7 +15,7 @@
 #include <stdlib.h>
 
 /*
- * PEEEEEEEEENNNNNNNNNNNNEEEEEEEEEE
+ * 
  */
 int main(int argc, char** argv) {
 
