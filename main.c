@@ -28,6 +28,8 @@ int main(int argc, char** argv) {
     
     double asd = 0;
     
+    char pole[5] = "ala";
+    
     return (EXIT_SUCCESS);
 }
 
