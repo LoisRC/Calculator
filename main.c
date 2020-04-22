@@ -24,6 +24,8 @@ int main(int argc, char** argv) {
     int a = 2*2;
     float b = 1.0;
     
+    char c = 'a';
+    
     return (EXIT_SUCCESS);
 }
 
