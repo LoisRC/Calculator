@@ -26,6 +26,8 @@ int main(int argc, char** argv) {
     
     char c = 'a';
     
+    double asd = 0;
+    
     return (EXIT_SUCCESS);
 }
 
