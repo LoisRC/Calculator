@@ -8,9 +8,6 @@
  * File:   main.c
  * Author: acull
  *
- * Created on 22 de abril de 2020, 16:52
- */
-import popopo
 int main(int argc, char** argv) {
 
     printf("%d",1+1);
